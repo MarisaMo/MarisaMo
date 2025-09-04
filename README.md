@@ -1,16 +1,13 @@
-## Hi there 👋
+# Marisa Modjeski — Data & Investigations
 
-<!--
-**MarisaMo/MarisaMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Mission:** Turn noisy data into actionable, audit-ready leads.
 
-Here are some ideas to get you started:
+- Focus: anomaly detection, investigative analytics, OSINT/NLP, reproducible pipelines  
+- Tooling: Python (pandas, scikit-learn, statsmodels), R (tidyverse), SQL  
+- Ethics: data minimization, documentation, transparency — no PHI/PII in public repos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured work (incoming)
+- Claims Anomaly Leads (Synthetic) — rules + ML → one-page investigative brief  
+- Press Briefing NLP — topic/sentiment trends with caveats  
+- OSINT Timeline Builder — parse → normalize → export CSV/brief
+
